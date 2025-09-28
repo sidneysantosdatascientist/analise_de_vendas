@@ -44,9 +44,8 @@ projeto-vendas/
 │   ├─ clientes_clusters.csv       # Resultado do clustering RFM
 │   └─ previsao_vendas.csv         # Previsão de vendas (6 meses)
 │
-├─ notebooks/
-│   ├─ Analises_Python.ipynb       # EDA e visualizações iniciais
-│   └─ Analises_Python_2.ipynb
+├─ notebooks/│              
+│   └─ Analises_Python.ipynb      # EDA e visualizações iniciais
 │
 ├─ models/
 │   └─ ciencia_dados_insights.ipynb # Segmentação, previsão e anomalias
@@ -66,7 +65,7 @@ projeto-vendas/
 ---
 
 ## 📂 Conjunto de Dados
-Dados fictícios e realistas contendo:
+Dados contendo:
 - **Clientes**: informações demográficas e de cadastro.
 - **Produtos**: categorias, preço e custo.
 - **Vendas**: histórico 2023–2025, incluindo itens de cada venda.
@@ -96,7 +95,7 @@ Dados fictícios e realistas contendo:
 ## 🔬 Pipeline
 
 1. **SQL**  
-   - Criação de tabelas e views otimizadas (`sql/consultas_analise.sql`).
+   - Criação de tabelas e views otimizadas.
    - Métricas de vendas, margens e comportamento.
 
 2. **Python**  
@@ -137,7 +136,7 @@ Dados fictícios e realistas contendo:
 ## ⚙️ Como Reproduzir
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/projeto-vendas.git
+   git clone https://github.com/sidneysantosdatascientist/analise_de_vendas
    cd projeto-vendas
    ```
 
@@ -153,7 +152,7 @@ Dados fictícios e realistas contendo:
 
 4. Explore os notebooks em `notebooks/` e `models/`.
 
-5. Abra o dashboard em `powerbi/vendas_2.pbix`.
+5. Abra o dashboard em `powerbi/vendas.pbix`.
 
 ---
 
