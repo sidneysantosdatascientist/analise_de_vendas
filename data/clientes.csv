@@ -1,0 +1,21 @@
+cliente_id,nome,email,cidade,estado,data_cadastro
+1,João Silva,joao.silva@email.com,São Paulo,SP,2023-01-15
+2,Maria Santos,maria.santos@email.com,Rio de Janeiro,RJ,2023-02-20
+3,Pedro Oliveira,pedro.oliveira@email.com,Belo Horizonte,MG,2023-03-10
+4,Ana Costa,ana.costa@email.com,Porto Alegre,RS,2023-04-05
+5,Carlos Pereira,carlos.pereira@email.com,Salvador,BA,2023-05-12
+6,Juliana Almeida,juliana.almeida@email.com,Brasília,DF,2023-06-18
+7,Fernando Lima,fernando.lima@email.com,Fortaleza,CE,2023-07-22
+8,Patrícia Rocha,patricia.rocha@email.com,Recife,PE,2023-08-30
+9,Ricardo Martins,ricardo.martins@email.com,Manaus,AM,2023-09-05
+10,Amanda Dias,amanda.dias@email.com,Curitiba,PR,2023-10-15
+11,Bruno Nunes,bruno.nunes@email.com,Belém,PA,2023-11-20
+12,Camila Ferreira,camila.ferreira@email.com,Goiânia,GO,2023-12-25
+13,Daniel Souza,daniel.souza@email.com,São Luís,MA,2024-01-08
+14,Eduarda Carvalho,eduarda.carvalho@email.com,Natal,RN,2024-02-14
+15,Fábio Barbosa,fabio.barbosa@email.com,Campo Grande,MS,2024-03-21
+16,Gabriela Ribeiro,gabriela.ribeiro@email.com,Florianópolis,SC,2024-04-03
+17,Hugo Cardoso,hugo.cardoso@email.com,Vitória,ES,2024-05-17
+18,Isabela Melo,isabela.melo@email.com,Maceió,AL,2024-06-11
+19,Lucas Santana,lucas.santana@email.com,João Pessoa,PB,2024-07-19
+20,Mariana Pinto,mariana.pinto@email.com,Teresina,PI,2024-08-22

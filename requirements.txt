@@ -1,0 +1,19 @@
+# Manipulação e análise de dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Modelagem e Machine Learning
+scikit-learn
+statsmodels
+
+# Ambiente de notebooks
+jupyter
+
+# Conexão com bancos de dados (opcional, caso use PostgreSQL diretamente)
+sqlalchemy
+psycopg2-binary

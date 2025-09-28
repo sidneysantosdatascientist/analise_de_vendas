@@ -1,0 +1,20 @@
+cliente_id,Recency,Frequency,Monetary,Monetary_log,Cluster,Cluster_Label,nome,cidade,estado
+1,31,72,345032.09,12.751395604457613,1,At Risk,João Silva,São Paulo,SP
+2,1,88,432623.26,12.977624870447883,0,VIP,Maria Santos,Rio de Janeiro,RJ
+3,21,89,454031.31,13.025923641892087,0,VIP,Pedro Oliveira,Belo Horizonte,MG
+4,13,84,419489.69,12.946796611556119,3,Occasional,Ana Costa,Porto Alegre,RS
+5,12,87,437319.49,12.988421592008782,0,VIP,Carlos Pereira,Salvador,BA
+6,1,75,365328.57,12.808555156674041,3,Occasional,Juliana Almeida,Brasília,DF
+7,34,69,330062.2,12.707039430257492,1,At Risk,Fernando Lima,Fortaleza,CE
+8,11,83,424122.78,12.957780625571932,3,Occasional,Patrícia Rocha,Recife,PE
+9,60,80,398946.48,12.896585058135452,2,Loyal,Ricardo Martins,Manaus,AM
+10,1,97,525961.67,13.172985519619637,0,VIP,Amanda Dias,Curitiba,PR
+11,14,78,375966.78,12.837258727210944,3,Occasional,Bruno Nunes,Belém,PA
+12,11,60,302778.14,12.62075890781571,1,At Risk,Camila Ferreira,Goiânia,GO
+13,11,67,302053.24,12.618361882879388,1,At Risk,Daniel Souza,São Luís,MA
+14,6,84,392169.96,12.879453146147824,3,Occasional,Eduarda Carvalho,Natal,RN
+15,15,90,448270.78,13.013154979244028,0,VIP,Fábio Barbosa,Campo Grande,MS
+16,17,78,416151.78,12.93880773143548,3,Occasional,Gabriela Ribeiro,Florianópolis,SC
+17,16,77,393566.27,12.883007285214822,3,Occasional,Hugo Cardoso,Vitória,ES
+18,21,92,457379.28,13.033270446392617,0,VIP,Isabela Melo,Maceió,AL
+19,9,90,416994.14,12.940829846036763,0,VIP,Lucas Santana,João Pessoa,PB
