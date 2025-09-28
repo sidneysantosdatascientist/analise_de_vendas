@@ -32,31 +32,31 @@ Este projeto demonstra como aplicar **Data Analytics e Data Science** para:
 ---
 projeto-vendas/
 │
-├─ data/
-│ ├─ clientes.csv
-│ ├─ itens_venda.csv
-│ ├─ produtos.csv
-│ ├─ vendas_2023_2025.csv
-│ ├─ clientes_clusters.csv # Resultado do clustering RFM
-│ └─ previsao_vendas.csv # Previsão de vendas (6 meses)
+├── data/
+│   ├── clientes.csv
+│   ├── itens_venda.csv
+│   ├── produtos.csv
+│   ├── vendas_2023_2025.csv
+│   ├── clientes_clusters.csv          # Resultado do clustering RFM
+│   └── previsao_vendas.csv            # Previsão de vendas (6 meses)
 │
-├─ notebooks/
-│ ├─ Analises_Python.ipynb # EDA e visualizações iniciais
-│ └─ Analises_Python_2.ipynb
+├── notebooks/
+│   ├── Analises_Python.ipynb          # EDA e visualizações iniciais
+│   
 │
-├─ models/
-│ └─ ciencia_dados_insights.ipynb # Segmentação, previsão e anomalias
+├── models/
+│   └── ciencia_dados_insights.ipynb   # Segmentação, previsão e anomalias
 │
-├─ sql/
-│ ├─ consultas_analise.sql # Queries para KPIs e views
-│ ├─ salvando_dados.sql # Exportação de tabelas
-│ └─ verificacao_tabelas.sql # Checagem de estrutura e views
+├── sql/
+│   ├── consultas_analise.sql          # Queries para KPIs e views
+│   ├── salvando_dados.sql             # Exportação de tabelas
+│   └── verificacao_tabelas.sql        # Checagem de estrutura e views
 │
-├─ powerbi/
-│ └─ vendas_2.pbix # Dashboard interativo completo
+├── powerbi/
+│   └── vendas_2.pbix                  # Dashboard interativo completo
 │
-├─ README.md
-└─ requirements.txt
+├── README.md
+└── requirements.txt
 
 
 
