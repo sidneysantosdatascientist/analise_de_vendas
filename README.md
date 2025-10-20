@@ -156,7 +156,7 @@ Dados contendo:
 
 ---
 
-## 🚀 Próximos Passos
+##  Próximos Passos
 - Implementar API para disponibilizar previsões em tempo real.  
 - Testar modelos adicionais de previsão (XGBoost, Prophet).  
 - Expandir análise para outros canais de vendas (e-commerce, marketplace).  
@@ -165,6 +165,6 @@ Dados contendo:
 
 ## 👤 Autor
 **Sidney Pereira Santos**  
-📍 Rio de Janeiro, RJ  
-📧 [sidneysantosdatascientist@gmail.com](mailto:sidneysantosdatascientist@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sidney-santos-analista-de-dados/)  
+ Rio de Janeiro, RJ  
+ [sidneysantosdatascientist@gmail.com](mailto:sidneysantosdatascientist@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/sidney-santos-analista-de-dados/)  
