@@ -6,20 +6,6 @@ Abrange desde consultas SQL e análises exploratórias em Python, até dashboard
 
 ---
 
-##  Sumário
-- [Visão Geral](#-visão-geral)
-- [Arquitetura do Projeto](#-arquitetura-do-projeto)
-- [Conjunto de Dados](#-conjunto-de-dados)
-- [Principais Insights](#-principais-insights)
-- [Pipeline](#-pipeline)
-- [Resultados de Ciência de Dados](#-resultados-de-ciência-de-dados)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Reproduzir](#-como-reproduzir)
-- [Próximos Passos](#-próximos-passos)
-- [Autor](#-autor)
-
----
-
 ##  Visão Geral
 Empresas que trabalham com grandes volumes de vendas precisam de **inteligência baseada em dados**  
 para direcionar estratégias comerciais, otimizar estoques e personalizar campanhas.  
