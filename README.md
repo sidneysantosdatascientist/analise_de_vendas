@@ -1,5 +1,5 @@
-#  
-**Análise de Dados, SQL, Power BI e Ciência de Dados**
+#  **Análise de Dados, SQL, Power BI e Ciência de Dados**
+
 
 Este repositório apresenta um pipeline completo de **análise e modelagem de dados de vendas**.  
 Abrange desde consultas SQL e análises exploratórias em Python, até dashboards interativos em Power BI e modelos de Ciência de Dados para **segmentação de clientes** e **previsão de faturamento**.
