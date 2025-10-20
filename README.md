@@ -95,7 +95,7 @@ Dados contendo:
    - Dashboard com páginas de Resumo, Vendas, Geografia, Top Produtos/Clientes, Segmentação RFM e Previsão de Vendas.
      
 ![Preview do Dashboard](powerbi/dashboard_preview.png)
-![Preview do Dashboard](https://github.com/sidneysantosdatascientist/analise_de_vendas/blob/main/powerbi/dashboard_preview.png?raw=true)
+![Preview do Dashboard](https://github.com/sidneysantosdatascientist/analise_de_vendas/powerbi/dashboard_preview.png?raw=true)
 ---
 
 ##  Resultados de Ciência de Dados
