@@ -93,7 +93,9 @@ Dados contendo:
 
 3. **Power BI**  
    - Dashboard com páginas de Resumo, Vendas, Geografia, Top Produtos/Clientes, Segmentação RFM e Previsão de Vendas.
-![Preview do Dashboard](powerbi/dashboard_preview.png)
+     
+![Preview do Dashboard](analise_de_vendas/powerbi/dashboard_preview.png)
+
 ---
 
 ##  Resultados de Ciência de Dados
