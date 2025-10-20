@@ -1,4 +1,4 @@
-#  Projeto de Vendas 2023–2025  
+#  
 **Análise de Dados, SQL, Power BI e Ciência de Dados**
 
 Este repositório apresenta um pipeline completo de **análise e modelagem de dados de vendas**.  
