@@ -1,4 +1,4 @@
-#  **Análise de Dados, SQL, Power BI e Ciência de Dados**
+#  **Análise Avançada de Clientes e Vendas – RFM, Churn e Forecast**
 
 
 Este repositório apresenta um pipeline completo de **análise e modelagem de dados de vendas**.  
