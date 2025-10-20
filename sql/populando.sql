@@ -1,7 +1,7 @@
 -- Script para popular o banco de dados de vendas
--- Execute após criar a estrutura das tabelas
 
--- 1. Inserir dados na tabela de clientes
+
+-- 1. Inserindo dados na tabela de clientes
 INSERT INTO clientes (nome, email, cidade, estado, data_cadastro) VALUES
 ('João Silva', 'joao.silva@email.com', 'São Paulo', 'SP', '2023-01-15'),
 ('Maria Santos', 'maria.santos@email.com', 'Rio de Janeiro', 'RJ', '2023-02-20'),
@@ -24,7 +24,7 @@ INSERT INTO clientes (nome, email, cidade, estado, data_cadastro) VALUES
 ('Lucas Santana', 'lucas.santana@email.com', 'João Pessoa', 'PB', '2024-07-19'),
 ('Mariana Pinto', 'mariana.pinto@email.com', 'Teresina', 'PI', '2024-08-22');
 
--- 2. Inserir dados na tabela de produtos
+-- 2. Inserindo dados na tabela de produtos
 INSERT INTO produtos (nome, categoria, preco, custo) VALUES
 ('Notebook Dell Inspiron', 'Eletrônicos', 3500.00, 2500.00),
 ('Smartphone Samsung Galaxy', 'Eletrônicos', 1500.00, 1000.00),
@@ -47,7 +47,7 @@ INSERT INTO produtos (nome, categoria, preco, custo) VALUES
 ('Mouse Gamer', 'Eletrônicos', 180.00, 100.00),
 ('Teclado Mecânico', 'Eletrônicos', 300.00, 180.00);
 
--- 3. Inserir dados na tabela de vendas
+-- 3. Inserindo dados na tabela de vendas
 INSERT INTO vendas (cliente_id, data_venda, total_venda) VALUES
 (1, '2024-01-05', 3500.00),
 (2, '2024-01-07', 1599.80),
@@ -90,7 +90,7 @@ INSERT INTO vendas (cliente_id, data_venda, total_venda) VALUES
 (1, '2024-04-10', 199.90),
 (2, '2024-04-12', 299.90);
 
--- 4. Inserir dados na tabela de itens_venda
+-- 4. Inserindo dados na tabela de itens_venda
 INSERT INTO itens_venda (venda_id, produto_id, quantidade, preco_unitario, total_item) VALUES
 -- Venda 1
 (1, 1, 1, 3500.00, 3500.00),
@@ -224,7 +224,7 @@ SELECT 'Vendas', COUNT(*) FROM vendas
 UNION ALL
 SELECT 'Itens Venda', COUNT(*) FROM itens_venda;
 
--- Visualizar algumas vendas com detalhes
+-- Visualizando algumas vendas com detalhes
 SELECT 
     v.venda_id,
     v.data_venda,

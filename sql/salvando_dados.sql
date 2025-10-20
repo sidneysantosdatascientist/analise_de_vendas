@@ -1,4 +1,3 @@
--- No seu PostgreSQL, execute estas queries para exportar os dados
 
 -- Exportar clientes
 COPY (SELECT * FROM clientes) TO '/tmp/clientes.csv' WITH CSV HEADER;

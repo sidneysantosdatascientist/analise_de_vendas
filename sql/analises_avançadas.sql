@@ -192,9 +192,7 @@ LIMIT 20;
 
 
 
-
 -- Análise de Funnel de Vendas
-
 
 
 -- Análise de Funnel de Conversão de Clientes
