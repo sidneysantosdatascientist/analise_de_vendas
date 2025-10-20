@@ -1,4 +1,4 @@
-# 🛍️ Projeto de Vendas 2023–2025  
+#  Projeto de Vendas 2023–2025  
 **Análise de Dados, SQL, Power BI e Ciência de Dados**
 
 Este repositório apresenta um pipeline completo de **análise e modelagem de dados de vendas**.  
@@ -6,7 +6,7 @@ Abrange desde consultas SQL e análises exploratórias em Python, até dashboard
 
 ---
 
-## 📑 Sumário
+##  Sumário
 - [Visão Geral](#-visão-geral)
 - [Arquitetura do Projeto](#-arquitetura-do-projeto)
 - [Conjunto de Dados](#-conjunto-de-dados)
@@ -20,7 +20,7 @@ Abrange desde consultas SQL e análises exploratórias em Python, até dashboard
 
 ---
 
-## 💡 Visão Geral
+##  Visão Geral
 Empresas que trabalham com grandes volumes de vendas precisam de **inteligência baseada em dados**  
 para direcionar estratégias comerciais, otimizar estoques e personalizar campanhas.  
 Este projeto demonstra como aplicar **Data Analytics e Data Science** para:
@@ -31,7 +31,7 @@ Este projeto demonstra como aplicar **Data Analytics e Data Science** para:
 
 ---
 
-## 🏗 Arquitetura do Projeto
+##  Arquitetura do Projeto
 
 ```
 projeto-vendas/
@@ -64,7 +64,7 @@ projeto-vendas/
 
 ---
 
-## 📂 Conjunto de Dados
+##  Conjunto de Dados
 Dados contendo:
 - **Clientes**: informações demográficas e de cadastro.
 - **Produtos**: categorias, preço e custo.
@@ -72,7 +72,7 @@ Dados contendo:
 
 ---
 
-## 🔎 Principais Insights
+##  Principais Insights
 
 ### Vendas e Sazonalidade
 - Evolução mensal e trimestral com picos em datas festivas.
@@ -92,7 +92,7 @@ Dados contendo:
 
 ---
 
-## 🔬 Pipeline
+##  Pipeline
 
 1. **SQL**  
    - Criação de tabelas e views otimizadas.
@@ -110,7 +110,7 @@ Dados contendo:
 
 ---
 
-## 📈 Resultados de Ciência de Dados
+##  Resultados de Ciência de Dados
 
 | Cluster    | Descrição                        | % Clientes |
 |------------|----------------------------------|------------|
@@ -124,7 +124,7 @@ Dados contendo:
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Python 3.x**  
   `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`,  
   `scikit-learn`, `statsmodels`, `jupyter`
@@ -133,7 +133,7 @@ Dados contendo:
 
 ---
 
-## ⚙️ Como Reproduzir
+##  Como Reproduzir
 1. Clone este repositório:
    ```bash
    git clone https://github.com/sidneysantosdatascientist/analise_de_vendas
@@ -163,7 +163,7 @@ Dados contendo:
 
 ---
 
-## 👤 Autor
+## 
 **Sidney Pereira Santos**  
  Rio de Janeiro, RJ  
  [sidneysantosdatascientist@gmail.com](mailto:sidneysantosdatascientist@gmail.com)  
